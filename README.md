@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Trying to be a Good Programmer</h3>
 
 <img align='right' alt = 'coding' width='400' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdicnBlczdvZXV5YWxibHRwdXh5eDQyOGxycG1zZzhiMDZidGdtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rhZr8u3cvxe0ksf1ej/giphy.gif'>
 
