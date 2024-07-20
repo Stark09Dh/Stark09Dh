@@ -1,4 +1,4 @@
-![Header](https://github.com/Stark09Dh/Simple-Web-Development-Projects/blob/main/Music%20Player/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
