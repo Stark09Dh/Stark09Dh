@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
 <h3 align="center">Trying to be a Good Programmer</h3>
 
-<img align='right' alt = 'coding' width='400' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdicnBlczdvZXV5YWxibHRwdXh5eDQyOGxycG1zZzhiMDZidGdtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rhZr8u3cvxe0ksf1ej/giphy.gif'>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stark09dh&label=Profile%20views&color=0e75b6&style=flat" alt="stark09dh" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently Doing Some **Leetcode**
 
 - 💬 Ask me about **JavaScript,C++,Machine Learning**
 
