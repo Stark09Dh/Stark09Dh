@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently Doing Some **Leetcode**
 
-- 💬 Ask me about **JavaScript,C++,Machine Learning**
+- 💬 Ask me about **Android, C++, Machine Learning**
 
 - 📫 How to reach me **dhanajaymourya531@gmail.com**
 
